@@ -1,0 +1,37 @@
+{
+    "hostels":[
+      {
+        "id":1,
+        "name":"Merrytime Hostel",
+        "image":"require('@/assets/banner.jgp')",
+        "description": "Merytime Hostel is a modern block of student accomodation in Delta State University, Abraka. It is located along winner's road, Abraka. It is just 15mins walk from campus three. It is close to all the facilities to make you comfortable, from market, banks, pharmacy shops, to churches.",
+        "price":"&#8358;120,000 per year",
+        "type":"1 Bed-room"
+    },
+    {
+      "id":1,
+      "name":"Merrytime Hostel",
+      "image":"require('@/assets/banner.jgp')",
+      "description": "Merytime Hostel is a modern block of student accomodation in Delta State University, Abraka. It is located along winner's road, Abraka. It is just 15mins walk from campus three. It is close to all the facilities to make you comfortable, from market, banks, pharmacy shops, to churches.",
+      "price":"&#8358;120,000 per year",
+      "type":"1 Bed-room"
+  },
+  {
+    "id":1,
+    "name":"Merrytime Hostel",
+    "image":"require('@/assets/banner.jgp')",
+    "description": "Merytime Hostel is a modern block of student accomodation in Delta State University, Abraka. It is located along winner's road, Abraka. It is just 15mins walk from campus three. It is close to all the facilities to make you comfortable, from market, banks, pharmacy shops, to churches.",
+    "price":"&#8358;120,000 per year",
+    "type":"1 Bed-room"
+},
+{
+  "id":1,
+  "name":"Merrytime Hostel",
+  "image":"require('@/assets/banner.jgp')",
+  "description": "Merytime Hostel is a modern block of student accomodation in Delta State University, Abraka. It is located along winner's road, Abraka. It is just 15mins walk from campus three. It is close to all the facilities to make you comfortable, from market, banks, pharmacy shops, to churches.",
+  "price":"&#8358;120,000 per year",
+  "type":"1 Bed-room"
+}
+     
+    ]
+}
