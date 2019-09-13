@@ -70,20 +70,20 @@ footer{
         color: rgb(85, 85, 85);
         font-weight: bold;
         padding-bottom: .4rem;
-        opacity: .8;
+        opacity: .7;
     }
     p{
         font-family: 'Roboto';
         font-size: .92rem;
         color:#484848;
-        opacity: .8;
+        opacity: .7;
     }
     .footer__links{
         color:#484848;
         text-decoration: none;
         font-size: .9rem;
         font-weight: bold;
-        opacity: .6;
+        opacity: .5;
         &:hover{
             color:$primary-color;
             transition: all ease-out .5s;
@@ -100,6 +100,7 @@ footer{
         padding-left: 1rem;
         font-weight: bold;
         color: rgb(85, 85, 85);
+        opacity: .7;
     }
 }
 </style>
